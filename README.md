@@ -4,6 +4,4 @@ Inspiration from Cryptography Lecture on Stream Ciphers and specifically the gen
 --> Decrypt and Encrypt Messages    
 Disadvantage  
 --> The Stream Cipher Determines all possible 'random' numbers given the seed rather than generating random bits when needed, which is not practical with big keys with 2^128 possible outcomes.  
-![](https://raw.githubusercontent.com/makiisthenes/LSFR-Crypto-Maki-/master/lecture_ss.PNG)
-<img src="https://raw.githubusercontent.com/makiisthenes/LSFR-Crypto-Maki-/master/lecture_ss.PNG"
-     style="float: center;width:400px;" />
+<img src="https://raw.githubusercontent.com/makiisthenes/LSFR-Crypto-Maki-/master/lecture_ss.PNG"; style="float: center;width:300px;" />
