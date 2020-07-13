@@ -1,4 +1,4 @@
-# LSFR Simulation with 4 bits.
+# LSFR Simulation with 8 bits.
 # Stream Cipher Random Bit Generation.
 import math
 
@@ -17,7 +17,7 @@ import math
 # 4095D 2^12 Possible Keys
 
 # 1 1 1 1  1 1 1 1 B
-# 255D 2^8 Possible Keys
+# 255D 2^8 Possible Keys [current]
 
 
 def decimal2binary(decimal_value):
