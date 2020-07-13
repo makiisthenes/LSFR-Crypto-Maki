@@ -1,5 +1,6 @@
-"# LSFR-Crypto-Maki-" 
-#Inspiration from Cryptography Lecture on Stream Ciphers and specifically the generation of number in Linear Feedback Shift Registers.
+# LSFR-Crypto-Maki-" 
+Inspiration from Cryptography Lecture on Stream Ciphers and specifically the generation of number in Linear Feedback Shift Registers.
+
 [x] 8 bit seed used to generate random numbers up to 255 bits.
 [x] Decrypt and Encrypt Messages
 # Disadvantage
